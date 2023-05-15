@@ -1,0 +1,3 @@
+https://home.openweathermap.org/
+
+key=39a99f187da11559796ce6d444ea561c
